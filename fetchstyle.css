@@ -1,0 +1,35 @@
+.fetch {
+    margin-left: 40%;
+    margin-top: 5%;
+    border-radius: 4px;
+    border: 1px solid rgb(242, 164, 29);
+    background-color: #8989ef;
+    font-family: 'Times New Roman', Times, serif;
+    color: azure;
+    height: 100%;
+    font-size: 40px;
+    size: 45px;
+}
+
+.fetch:hover {
+    background-color: green;
+    border: 1px solid orangered;
+}
+
+h2,
+h3 {
+    margin-left: 45%;
+}
+
+.card {
+    margin-left: 40%;
+}
+
+body {
+    background-color: #847dca;
+}
+table,tr,td{
+    text-align:"center";
+    padding:"10px";
+    margin:"20px";
+}
